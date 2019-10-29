@@ -1,6 +1,12 @@
 # FOSS4G Oceania 2019 Workshops
 
 ## QGIS Processing Models and the Graphical Modeller
+
+***
+Requires: https://github.com/pgssimon/qgis_pick_a_point
+
+***
+
 [QGIS Processing Models and the Graphical Modeller](../master/QGIS-Processing-Models-and-the-Graphical-Modeller.md)
 
 The graphical modeller is a powerful component that we can use to define a workflow and run a chain of algorithms (a processing model).
