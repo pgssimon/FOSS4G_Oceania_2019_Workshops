@@ -18,16 +18,5 @@ The affected buildings are determined by
 * buffering the travel distance to intersect land parcels, 
 * extracting building footprints that that intersect the land parcels.
 
-The Inputs
-* Event location point chosen on the Map Canvas
-* Road network layer
-* Travel distance value
-* Travel distance buffer value
-* Land parcel layer
-* Building footprints layer
 
-The outputs
-* Event location point layer
-* Affected road network line layer
-* Travel distance buffer polygon layer
-* Affected buildings polygon layer
+[Start here...](../blob/master/QGIS-Processing-Models-and-the-Graphical-Modeller.md)
