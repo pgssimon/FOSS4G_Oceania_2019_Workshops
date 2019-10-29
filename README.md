@@ -1,7 +1,7 @@
 # FOSS4G Oceania 2019 Workshops
 
 ## QGIS Processing Models and the Graphical Modeller
-[QGIS Processing Models and the Graphical Modeller](../blob/master/QGIS-Processing-Models-and-the-Graphical-Modeller.md)
+[QGIS Processing Models and the Graphical Modeller](../master/QGIS-Processing-Models-and-the-Graphical-Modeller.md)
 
 The graphical modeller is a powerful component that we can use to define a workflow and run a chain of algorithms (a processing model).
 
@@ -19,4 +19,4 @@ The affected buildings are determined by
 * extracting building footprints that that intersect the land parcels.
 
 
-[Start here...](../blob/master/QGIS-Processing-Models-and-the-Graphical-Modeller.md)
+[Start here...](../master/QGIS-Processing-Models-and-the-Graphical-Modeller.md)
